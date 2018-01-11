@@ -93,6 +93,33 @@ import tutorial.lovecode.ui.fragments.ItemTwoFragment;
  * Done research about Branch IO Android
  */
 
+
+/**
+ * Test deep link
+ *
+ * - Create a deep link from the Branch Dashboard
+ *
+ * - Delete your app from the device(Purpose to get file apk(Link Settings) express DeepView )
+ *
+ * - Compile your app to your device
+ *
+ * - Paste deep link in Google Hangouts (Using google browser and get link to download app)
+ *
+ * - Click on the deep link to open your app (Click Link again and open application again)
+ *
+ */
+
+/**
+ * @link(https://docs.branch.io/pages/apps/android/)
+ *
+ * - Back to this website. Follow tutorial and read instruction.
+ * * Implement features
+ *      - Create content reference
+ *
+ *
+ */
+
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
